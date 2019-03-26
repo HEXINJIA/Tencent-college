@@ -426,10 +426,6 @@
         <el-button type="primary" @click.stop="back" class="base-btn-active">保存</el-button>
         <el-button  @click.stop="back" class="">取消</el-button>
       </div>
-      <div class="center base-btn">
-        <el-button type="primary" @click.stop="back" class="base-btn-active">保存</el-button>
-        <el-button  @click.stop="back" class="">取消</el-button>
-      </div>
     </div>
   </div>
 </template>
